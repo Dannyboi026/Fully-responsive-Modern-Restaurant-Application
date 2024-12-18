@@ -1,9 +1,5 @@
 # Restaurant Landing Page
 
-## Introduction
-This is a code repository for the corresponding video tutorial. In this video, we're going to build a Modern UI/UX Restaurant Landing Page Website
-
-
 - React Functional components and their reusability
 - React file and folder structure
 - Fundamental CSS properties to master flex & grid
